@@ -7,10 +7,10 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
 
 # All Papers (Classification according to Publication)
 
-- **IEEE Symposium on Security and Privacy 2021**
-  - [Fuzzing: Challenges and Reflections]
-
 - **IEEE Symposium on Security and Privacy 2022**
+  - [A First Look at Zoombombing](#a-first-look-at-zoombombing)
+
+- **IEEE Symposium on Security and Privacy 2021**
   - [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis](#effective-seed-scheduling-for-fuzzing-with-graph-centrality-analysis-sp-2022)
   - [BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning](#beacon-directed-grey-box-fuzzing-with-provable-path-pruning-sp-2022)
 
@@ -524,7 +524,7 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
 # All Papers (Classification according to Subject)
 
 - [**Survey/Review**](#surveyreview)
-  - [Fuzzing: Challenges and Reflections](#fuzzing-challenges-and-reflections)
+  - [A First Look at Zoombombing](#a-first-look-at-zoombombing)
   - [SoK: The Progress, Challenges, and Perspectives of Directed Greybox Fuzzing](#sok-the-progress-challenges-and-perspectives-of-directed-greybox-fuzzing)
   - [Fuzzing: Hack, Art, and Science](#fuzzing-hack-art-and-science-cacm-2020)
   - [Survey of Directed Fuzzy Technology](#survey-of-directed-fuzzy-technology)
@@ -989,7 +989,7 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
 
 # Survey/Review
 
-### Fuzzing: Challenges and Reflections
+### A First Look at Zoombombing
 
 * <img src="image/pdf_24px.png">[Paper](https://www.comp.nus.edu.sg/~abhik/pdf/IEEE-SW-Fuzzing.pdf)
 
