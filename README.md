@@ -8,7 +8,7 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
 # All Papers (Classification according to Publication)
 
 - **IEEE Symposium on Security and Privacy 2021**
-  - [Fuzzing: Challenges and Reflections](#fuzzing-challenges-and-reflections)
+  - [Fuzzing: Challenges and Reflections]
 
 - **IEEE Symposium on Security and Privacy 2022**
   - [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis](#effective-seed-scheduling-for-fuzzing-with-graph-centrality-analysis-sp-2022)
