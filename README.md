@@ -991,9 +991,9 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
 
 ### A First Look at Zoombombing
 
-* <img src="image/pdf_24px.png">[Paper](https://www.comp.nus.edu.sg/~abhik/pdf/IEEE-SW-Fuzzing.pdf)
+* <img src="image/pdf_24px.png">[Paper](https://arxiv.org/pdf/2009.03822.pdf)
 
-**Abstract:** Fuzzing is a method to discover software bugs and vulnerabilities by automatic test input generation which has found tremendous recent interest in both academia and industry. Fuzzing comes in the form of several techniques. On one hand, we have symbolic execution, which enables a particularly effective approach to fuzzing by systematically enumerating the paths of a program. On the other hand, we have random input generation, which generates large amounts of inputs per second with none or minimal program analysis overhead. In this article, we summarize the open challenges and opportunities for fuzzing and symbolic execution as they emerged in discussions among researchers and practitioners in a Shonan Meeting, and were validated in a subsequent survey. We take a forward-looking view of the software vulnerability discovery technologies and provide concrete directions for future research.
+**Abstract:** In particular, a phenomenon known as zoombombing has emerged, in which aggressors join online meetings with the goal of disrupting them and harassing their participants. In this paper, we conduct the first data-driven analysis of calls for zoombombing attacks on social media. We identify ten popular online meeting tools and extract posts containing meeting invitations to these platforms on a mainstream social network, Twitter, and on a fringe community known for organizing coordinated attacks against online users, 4chan. We then perform manual annotation to identify posts that are calling for zoombombing attacks, and apply thematic analysis to develop a codebook to better characterize the discussion surrounding calls for zoombombing. Our findings indicate that the vast majority of calls for zoombombing are not made by attackers stumbling upon meeting invitations or bruteforcing their meeting ID. Based on these observations, we argue that the only effective defense against zoombombing is creating unique join links for each participant.
 
 
 ### SoK: The Progress, Challenges, and Perspectives of Directed Greybox Fuzzing
