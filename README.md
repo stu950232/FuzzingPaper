@@ -7,22 +7,10 @@ Mirrors: [https://gitcode.net/mirrors/wcventure/FuzzingPaper](https://gitcode.ne
 
 # All Papers (Classification according to Publication)
 
-- **Survey/Review**
+- **IEEE Symposium on Security and Privacy 2021**
   - [Fuzzing: Challenges and Reflections](#fuzzing-challenges-and-reflections)
-  - [SoK: The Progress, Challenges, and Perspectives of Directed Greybox Fuzzing](#sok-the-progress-challenges-and-perspectives-of-directed-greybox-fuzzing)
-  - [Fuzzing: Hack, Art, and Science](#fuzzing-hack-art-and-science-cacm-2020)
-  - [Survey of Directed Fuzzy Technology](#survey-of-directed-fuzzy-technology)
-  - [A Review of Machine Learning Applications in Fuzzing](#a-review-of-machine-learning-applications-in-fuzzing)
-  - [A systematic review of fuzzing based on machine learning techniques](#a-systematic-review-of-fuzzing-based-on-machine-learning-techniques)
-  - [The Art, Science, and Engineering of Fuzzing: A Survey](#the-art-science-and-engineering-of-fuzzing-a-survey)
-  - [Fuzzing: Art, Science, and Engineering](#fuzzing-art-science-and-engineering)
-  - [Fuzzing: a survey](#fuzzing-a-survey)
-  - [Fuzzing: State of the art](#fuzzing-state-of-the-art)
-  - [Fuzzing: A Survey for Roadmap](#fuzzing-a-survey-for-roadmap)
-  - [Survey of Software Fuzzing Techniques](#survey-of-software-fuzzing-techniques)
-  - [A Review of Fuzzing Tools and Methods](#a-review-of-fuzzing-tools-and-methods)
 
-- **S&P 2022**
+- **IEEE Symposium on Security and Privacy 2022**
   - [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis](#effective-seed-scheduling-for-fuzzing-with-graph-centrality-analysis-sp-2022)
   - [BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning](#beacon-directed-grey-box-fuzzing-with-provable-path-pruning-sp-2022)
 
